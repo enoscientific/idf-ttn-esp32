@@ -15,7 +15,7 @@ include(FetchContent)
 
 
 FetchContent_Declare(
-  bme280
+  ttn-esp32
   GIT_REPOSITORY https://github.com/enoscientific/idf-ttn-esp32.git
 )
 
